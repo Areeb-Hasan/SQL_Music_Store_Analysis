@@ -12,6 +12,7 @@ The advanced queries demand sophisticated SQL techniques like WITH clauses and w
 
 
 
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/3cbffc60-ccbe-42b3-8124-19caf2ed58fe" />
 
 
 
